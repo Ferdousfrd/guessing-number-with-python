@@ -1,4 +1,4 @@
-#So the idea is the computer is going to ret a random number and we, users have to guess it
+#The idea is the computer is going to ret a random number and we, users have to guess it
 
 import random
 
